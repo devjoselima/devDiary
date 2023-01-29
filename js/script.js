@@ -82,11 +82,11 @@ function createNote(id, content, fixed){
         toggleFixNote(id)
     })
     element.querySelector(".bi-x-lg").addEventListener("click", () =>{
-        deleteNote(id)
+        deleteNote(id, element);
     })
 
     element.querySelector(".bi-file-earmark-plus").addEventListener("click", () =>{
-        copyNote(id, element)
+        copyNote(id);
     })
 
     return element;
@@ -118,7 +118,7 @@ function copyNote(id){
         fixed: false,
     };
 
-    const noteElement = createNote(noteObject.id, noteObject.content, noteObject.fixed)
+    const noteElement = createNote(noteObject.id, noteObject.content, noteObject.fixed);
 
     notesContainer.appendChild(noteElement)
 
