@@ -163,4 +163,8 @@ header {
   header{
     flex-direction: column;
   }
+
+  #notes-container{
+    justify-content: center;
+  }
 }
