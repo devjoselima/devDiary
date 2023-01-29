@@ -159,6 +159,11 @@ header {
   background-color: #3c3c3f;
 }
 
+.note.fixed .bi-pin{
+  background-color: #fff;
+  color: black;
+}
+
 @media screen and (max-width: 815px){
   header{
     flex-direction: column;
@@ -167,4 +172,5 @@ header {
   #notes-container{
     justify-content: center;
   }
+
 }

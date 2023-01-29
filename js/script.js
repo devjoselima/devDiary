@@ -4,6 +4,7 @@ const noteInput = document.querySelector("#note-content");
 const addNoteBtn = document.querySelector(".add-note");
 const searchInput = document.querySelector("#search-input");
 const exportBtn = document.querySelector("#exports-notes");
+const note = document.querySelector(".note");
 
 
 
@@ -213,10 +214,12 @@ function saveNotes(notes){
     localStorage.setItem("notes", JSON.stringify(notes));
 }
 
+
 //EVENTOS
 
 //Adiciona nota ao clicar
 addNoteBtn.addEventListener("click", () => addNote());
+
 
 //Adiciona a nota com Enter
 noteInput.addEventListener("keydown", (e) => {
