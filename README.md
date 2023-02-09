@@ -1,13 +1,18 @@
 <h1 align="center">✔️DevDiary</h1>
+
+<p align="center">
+  <a href="https://dev-diary-zeta.vercel.app/">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>
+</p>
+
 <img src="./print-projeto.PNG">
 
 
 ## ❔ Descrição:
-Este projeto foi baseado no "google keep" que é um software para criação de anotações, nele é possível criar diversas anotações, procurar por uma específica ou ate mesmo fixar as mais importantes.
-Neste projeto usei apenas HTML5,CSS e JavaScript e pude por em prática diversos conceitos fundamentais sobre as linguagens.
-<p>Clique <a href="https://dev-diary-zeta.vercel.app/">aqui</a> e veja o projeto no ar </p>
+Um projeto com design inspirado no "google keep" onde é possivel criar,editar,excluir ou até mesmo procurar anotações que são salvas no local storage do seu navegador.
 
-## 👨‍💻Tecnologias usadas:
+## 🚀 Tecnologias:
 
 <div style="display: inline_block">
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
