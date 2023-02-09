@@ -1,11 +1,8 @@
 <h1 align="center">✔️DevDiary</h1>
 
 <p align="center">
-  <a href="https://dev-diary-zeta.vercel.app/">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-descrição">Descrição</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>
+  <a href="https://dev-diary-zeta.vercel.app/">Ver projeto</a>
 </p>
-
 <img src="./print-projeto.PNG">
 
 
